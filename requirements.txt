@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+langchain==0.0.229
+chromadb==0.3.26
+pydantic==1.10.8
+typing-inspect==0.8.0
